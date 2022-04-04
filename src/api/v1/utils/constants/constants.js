@@ -1,0 +1,5 @@
+module.exports = {
+    DELIVERY_SLOT_TIME: 2 * 60, // HOURSE * MINUTS
+    DEFAULT_PAGE_NUMBER: 0,
+    DEFAULT_PAGE_SIZE: 20,
+}

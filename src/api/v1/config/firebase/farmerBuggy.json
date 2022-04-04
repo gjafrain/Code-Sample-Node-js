@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "green-farmer-develop",
+  "private_key_id": "2c5bf2bb601efddefa541274ba67ad0174d509af",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3ZqtCtRs29K68\n3L39yTCiX7z7DILz8PKr28I3wu+8k/W0vQqKi47NdXqe4HNh2jfOLeALNVKR4PqX\n5sT9bDHKBO1iD4e7WUxughxQ4vsbz1lNZUwbOPjBku6RwOkUjef/u2Sea6CD6Rjl\ngq8wNw52KDMfpGa+ODPaL4lRmxsqt0vM6MgOVtNIRN/RfG71sbzhw/oXbhLtr3xP\nqEjytwgLREXJmoGT+yeOw1IhFCnO6bsxTvOylBuO9dMLCkVup47vfomNi/8hNvPY\nvcZPirPu2X5TBuIr2Jm7eYhFqPfKWVJitO2USQW1R3dIcD721d3o4F8wKQ8uE7Jm\nmdsBaIxTAgMBAAECggEAA+ZNdu4l5X2/Z2mkKozIGXPCr23dLPWvG0NhdlERSue0\nfkLUwgxknW7FjDJGkcqTjDFChcp89ngbq/YusxrFVj/TklW1M6Ea9HCUzI1+/GDk\ny7X/L8b+1xLaOsQo0JSR3cisw4eTUqq2qk6kjfhluNJy/9W9j4bfZ2DCYTdUlQxm\nekYLo27cLv/KS3sslEeSGg+2gLFbq0pRLMgNEPNDF3f8/cl0y7jAafWD5/uJ1TOr\n3mtB2XGthomHmFSDPeXqvusUPF8z5fbyH/qzbmSV9QT97JO4pTsnzuywOpvx9BdI\nSckNrqoSebM0YNufbXrdfJ3FfkMCZOtw3D88rYU1wQKBgQDghPv4/5RJ9Z/9RQgU\n//TcjBNieo+yqr/xpH+e3ZEroWLScyXOzASfRR+TrkWS2YsRVLWDV/sRyyTT27tw\na9NpX2ODH3Tx10Bqq75wZxRH25q80thQC3ViTiy2s4u+avHFpiVkQCZHkkPb1G4N\nOdhl3m0PvO5bJVFtwmb4cC2okwKBgQDRHcJjUM3QKz46lnju3Y1otxcXN3x74fB3\nc+mWhGp4EMQ/ex2axjWFIDncHjf7OFTSce65EOzQxnhVGFMLUFM/Z4muoCmOlw7c\naQLAKsdfv0yLYqtz6jrLBfa45iEpkSWHNns+DzKbpCEUDB7M9FMs/6fsVRmy2mcB\nL27hU26lQQKBgFW5kPfGphkDJt4uQGK8RAL9nN0qDLncRkN+WpgO40H0ceYGvzXR\nYiZp3x+lF711QIsSe+e1bRCjLuGRcWUAVo1SNY24Mg+w71CLWMBUK0Mwj0lve9Y8\nOcqaLKpprX68GKotwPMhJzyGlVBXMNnt7zkeDyhGLAAzJH8zDdvoARbvAoGALoTT\nQGqyTjPAdSISJvkMQxYvwc9rFtftOXWEqiIs2SbJsWF+9XZQY5wGowvp4i3m2KXV\nuD+mns73594wYxzsV/d9bmZcuEasXKXTodIiZg9VRNCfWXrqt01NVFaFXAzY71pU\nUjrpRCxf22jS1T8o3aLFxVItFFd3gJD/topr28ECgYA2ynit3c1m+hgtqlhqHrHG\n9Bp8ChUwPQL/wyASZPXTKjhpQ538ZYbPjrVbZhypbsq5stumgypIVVQ1/Fy/4+SZ\niGa/uPQQRuYsH7ncFsWGyi7g/UdtXztbTEzUkb2pDisCL8aDa06jLtXvwKePz7H7\ndUaeU9c+RLNS1HgtVYmeBA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-2ilmz@green-farmer-develop.iam.gserviceaccount.com",
+  "client_id": "106632735896266370200",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2ilmz%40green-farmer-develop.iam.gserviceaccount.com"
+}
